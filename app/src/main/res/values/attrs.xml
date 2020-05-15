@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoginPageView">
+        <!--主体颜色-->
+        <attr name="mainColor" format="color" />
+        <!--校验码位数-->
+        <attr name="verifyCodeSize" format="integer" />
+    </declare-styleable>
+
+</resources>
